@@ -5,6 +5,8 @@ This repository contains my solutions for the various challenges that are part o
 
 Language used is **JAVA**.
 
+Refer to the **main** branch for latest and correct solutions.
+
 The solutions have been categorized into year and day. In order to execute any code -
 - Update the main function with the Runner class for the required year.
 - Update the execute function inside the appropriate Runner class with the required day & problem part.
