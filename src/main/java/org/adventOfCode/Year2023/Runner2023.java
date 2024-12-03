@@ -1,11 +1,11 @@
-package org.example.Year2023;
+package org.adventOfCode.Year2023;
 
-import org.example.Year2023.day1.Day1;
-import org.example.Year2023.day2.Day2;
-import org.example.Year2023.day3.Day3;
-import org.example.Year2023.day4.Day4;
-import org.example.Year2023.day5.Day5;
-import org.example.Year2023.day6.Day6;
+import org.adventOfCode.Year2023.day1.Day1;
+import org.adventOfCode.Year2023.day2.Day2;
+import org.adventOfCode.Year2023.day3.Day3;
+import org.adventOfCode.Year2023.day4.Day4;
+import org.adventOfCode.Year2023.day5.Day5;
+import org.adventOfCode.Year2023.day6.Day6;
 
 import java.io.FileNotFoundException;
 

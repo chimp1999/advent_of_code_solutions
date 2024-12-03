@@ -1,7 +1,6 @@
-package org.example;
+package org.adventOfCode;
 
-import org.example.Year2023.Runner2023;
-import org.example.Year2024.Runner2024;
+import org.adventOfCode.Year2024.Runner2024;
 
 import java.io.FileNotFoundException;
 

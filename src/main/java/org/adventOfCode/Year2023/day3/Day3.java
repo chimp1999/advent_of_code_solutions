@@ -1,4 +1,4 @@
-package org.example.Year2023.day3;
+package org.adventOfCode.Year2023.day3;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -69,12 +69,8 @@ public class Day3 {
     }
 
     private static boolean isValid(String type, int val) {
-        if ((type.equals("row") && val >= 0 && val < inputArray.size()) ||
-                (type.equals("col") && val >= 0 && val < inputArray.get(0).length)) {
-            return true;
-        }
-
-        return false;
+        return (type.equals("row") && val >= 0 && val < inputArray.size()) ||
+                (type.equals("col") && val >= 0 && val < inputArray.get(0).length);
     }
 
     private static BigInteger scanPart2(){

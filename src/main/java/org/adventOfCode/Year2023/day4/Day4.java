@@ -1,4 +1,4 @@
-package org.example.Year2023.day4;
+package org.adventOfCode.Year2023.day4;
 
 import java.io.File;
 import java.io.FileNotFoundException;
