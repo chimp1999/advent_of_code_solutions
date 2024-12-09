@@ -4,6 +4,7 @@ import org.adventOfCode.Year2024.day3.Day3;
 import org.adventOfCode.Year2024.day4.Day4;
 import org.adventOfCode.Year2024.day5.Day5;
 import org.adventOfCode.Year2024.day6.Day6;
+import org.adventOfCode.Year2024.day7.Day7;
 
 import java.io.FileNotFoundException;
 
@@ -30,7 +31,11 @@ public class Runner2024 {
 //        Day5.run(2);
 
         // Day 6
-        Day6.run(1);
-        Day6.run(2);
+//        Day6.run(1);
+//        Day6.run(2);
+
+        // Day 7
+//        Day7.run(1);
+        Day7.run(2);
     }
 }
