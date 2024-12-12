@@ -1,11 +1,13 @@
 package org.adventOfCode.Year2024;
 
+import org.adventOfCode.Year2024.day10.Day10;
 import org.adventOfCode.Year2024.day3.Day3;
 import org.adventOfCode.Year2024.day4.Day4;
 import org.adventOfCode.Year2024.day5.Day5;
 import org.adventOfCode.Year2024.day6.Day6;
 import org.adventOfCode.Year2024.day7.Day7;
 import org.adventOfCode.Year2024.day8.Day8;
+import org.adventOfCode.Year2024.day9.Day9;
 
 import java.io.FileNotFoundException;
 
@@ -17,7 +19,7 @@ public class Runner2024 {
 
         // Day 2
 //        Day2.run(1);
-//        Day2.run(2);
+//        Day2.run(2); Not done
 
         // Day 3
 //        Day3.run(1);
@@ -41,6 +43,14 @@ public class Runner2024 {
 
         // Day 8
 //        Day8.run(1);
-        Day8.run(2);
+//        Day8.run(2);
+
+        // Day 9
+//        Day9.run(1);
+//        Day9.run(2); Not done
+
+        // Day 10
+//        Day10.run(1);
+        Day10.run(2);
     }
 }

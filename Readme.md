@@ -12,6 +12,9 @@ The solutions have been categorized into year and day. In order to execute any c
 - Update the execute function inside the appropriate Runner class with the required day & problem part.
 - Execute the main function.
 
+**Remember to execute one part of a question at a time, since several classes use static variables which will get shared 
+across various solution parts leading to unexpected results.**
+
 The input data is present in resources directory & categorized into Year & Day.
 
 The ouput contains the execution times for each solution. These solutions are part of my journey of improving my Java skills and might not be the most efficient method to solve these problems.
