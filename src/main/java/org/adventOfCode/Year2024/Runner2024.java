@@ -2,6 +2,7 @@ package org.adventOfCode.Year2024;
 
 import org.adventOfCode.Year2024.day10.Day10;
 import org.adventOfCode.Year2024.day11.Day11;
+import org.adventOfCode.Year2024.day12.Day12;
 import org.adventOfCode.Year2024.day3.Day3;
 import org.adventOfCode.Year2024.day4.Day4;
 import org.adventOfCode.Year2024.day5.Day5;
@@ -55,7 +56,11 @@ public class Runner2024 {
 //        Day10.run(2);
 
         // Day 11
-        Day11.run(1);
-        Day11.run(2);
+//        Day11.run(1);
+//        Day11.run(2);
+
+        // Day 12
+//        Day12.run(1);
+        Day12.run(2);
     }
 }
