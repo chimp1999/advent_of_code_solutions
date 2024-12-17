@@ -5,6 +5,7 @@ import org.adventOfCode.Year2024.day11.Day11;
 import org.adventOfCode.Year2024.day12.Day12;
 import org.adventOfCode.Year2024.day13.Day13;
 import org.adventOfCode.Year2024.day14.Day14;
+import org.adventOfCode.Year2024.day15.Day15;
 import org.adventOfCode.Year2024.day3.Day3;
 import org.adventOfCode.Year2024.day4.Day4;
 import org.adventOfCode.Year2024.day5.Day5;
@@ -70,7 +71,11 @@ public class Runner2024 {
 //        Day13.run(2); Not done
 
         // Day 14
-        Day14.run(1);
-        Day14.run(2);
+//        Day14.run(1);
+//        Day14.run(2);
+
+        // Day 15
+//        Day15.run(1);
+        Day15.run(2);
     }
 }
