@@ -9,6 +9,8 @@ import org.adventOfCode.Year2024.day15.Day15;
 import org.adventOfCode.Year2024.day18.Day18;
 import org.adventOfCode.Year2024.day19.Day19;
 import org.adventOfCode.Year2024.day20.Day20;
+import org.adventOfCode.Year2024.day21.Day21;
+import org.adventOfCode.Year2024.day22.Day22;
 import org.adventOfCode.Year2024.day3.Day3;
 import org.adventOfCode.Year2024.day4.Day4;
 import org.adventOfCode.Year2024.day5.Day5;
@@ -91,6 +93,13 @@ public class Runner2024 {
 
         // Day 20
 //        Day20.run(1);
-        Day20.run(2);
+//        Day20.run(2);
+
+        // Day 21
+//        Day21.run(1);
+
+        // Day 22
+//        Day22.run(1);
+        Day22.run(2);
     }
 }
